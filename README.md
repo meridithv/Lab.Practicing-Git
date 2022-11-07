@@ -1,1 +1,4 @@
 This is a repo for learning git c:
+
+      “[T]his readiness to assume the guilt for the threats to our environment is deceptively reassuring: We like to be guilty since, if we are guilty, it all depends on us. We pull the strings of the catastrophe, so we can also save ourselves simply by changing our lives. What is really hard for us (at least in the West) to accept is that we are reduced to the role of a passive observer who sits and watches what our fate will be. To avoid this impotence, we engage in frantic, obsessive activities. We recycle old paper, we buy organic food, we install long-lasting light bulbs—whatever—just so we can be sure that we are doing something. We make our individual contribution like the soccer fan who supports his team in front of a TV screen at home, shouting and jumping from his seat, in the belief that this will somehow influence the game's outcome.”
+  
